@@ -1,3 +1,3 @@
 {
-	"serverUrl": "http://mir2er.0735t.com:11111"
+	"serverUrl": "http://47.99.85.16:11111"
 }
